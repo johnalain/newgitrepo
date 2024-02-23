@@ -1,1 +1,6 @@
 https://youtu.be/1ibmWyt8hfw?list=PLlvFEn0NKwXJGExomkSkFYKbD7Mfwz2sj git and github
+go to terminal dragmy desktop folder to terminal command
+line before type cd "path to my desktop folder"
+1-  <git init>
+2-  <git remote add origin "https://github.com repository must copy https belongs to the repo and not ssh
+
